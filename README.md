@@ -1,2 +1,1 @@
-# bond
 tiny golang project
